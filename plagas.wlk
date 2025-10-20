@@ -20,7 +20,7 @@ class Pulga inherits Plaga{
     }  
 }
 
-class Garrapata inherits Pulga{
+class Garrapata inherits Pulga{ //jeje
     
 }
 class Mosquito inherits Plaga{
